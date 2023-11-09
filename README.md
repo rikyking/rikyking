@@ -23,6 +23,6 @@ Un altro progetto fantastico! Descrivine brevemente l'obiettivo e come può esse
 ## Contattami 📬
 
 - Twitter: [@il_tuo_twitter](link_al_tuo_profilo_twitter)
-- LinkedIn: [Riccardo Patronaggio](https://www.linkedin.com/in/riccardo-patronaggio/)
+- LinkedIn: [https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg](https://www.linkedin.com/in/riccardo-patronaggio/)
 
 Non esitare a esplorare i miei progetti e lasciare un feedback! 😊
