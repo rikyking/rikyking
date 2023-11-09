@@ -23,6 +23,6 @@ Un altro progetto fantastico! Descrivine brevemente l'obiettivo e come può esse
 ## Contattami 📬
 
 - Twitter: [@il_tuo_twitter](link_al_tuo_profilo_twitter)
-- LinkedIn: [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) (https://www.linkedin.com/in/riccardo-patronaggio/)
+- LinkedIn: [![My Skills]([icons/LinkedIn.svg](https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg))](https://skillicons.dev) (https://www.linkedin.com/in/riccardo-patronaggio/)
 
 Non esitare a esplorare i miei progetti e lasciare un feedback! 😊
