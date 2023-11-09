@@ -22,7 +22,8 @@ Un altro progetto fantastico! Descrivine brevemente l'obiettivo e come può esse
 
 ## Contattami 📬
 
-- Twitter: [@il_tuo_twitter](link_al_tuo_profilo_twitter)
-- LinkedIn: (https://www.linkedin.com/in/riccardo-patronaggio/)
+- [![Twitter](https://img.shields.io/badge/Twitter-%40il_tuo_twitter-blue)](link_al_tuo_profilo_twitter)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Il%20Tuo%20Nome-blue)](link_al_tuo_profilo_linkedin)
 
 Non esitare a esplorare i miei progetti e lasciare un feedback! 😊
+
