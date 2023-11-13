@@ -12,13 +12,13 @@ Sono uno [tua professione] con una passione per [tue passioni]. Amo esplorare nu
 - 💻 Codice sorgente di alta qualità
 - 📝 Articoli e tutorial che potrebbero interessarti
 
-## Progetti in evidenza
+<!--## Progetti in evidenza
 
 ### [Nome Progetto 1](link_al_progetto_1)
 Breve descrizione del progetto. Aggiungi uno screenshot o un GIF animato per renderlo accattivante.
 
 ### [Nome Progetto 2](link_al_progetto_2)
-Un altro progetto fantastico! Descrivine brevemente l'obiettivo e come può essere utile.
+Un altro progetto fantastico! Descrivine brevemente l'obiettivo e come può essere utile.-->
 
 ## Contattami 📬
 
