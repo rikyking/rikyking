@@ -21,9 +21,12 @@ Una replica del famoso strumento utilizzato nel mondo dei Poké allenatori, che 
 ### [Nome Progetto 2](link_al_progetto_2)
 Un altro progetto fantastico! Descrivine brevemente l'obiettivo e come può essere utile.-->
 
-## Contattami 📬
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Il%20Tuo%20Nome-blue)](https://www.linkedin.com/in/riccardo-patronaggio/)
+##  Contatti  📬
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bit.ly/me-medesimo)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/riccardo-patronaggio/))
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/richi_patro16)
+
 
 Non esitare a esplorare i miei progetti e lasciare un feedback! 😊
 
