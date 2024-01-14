@@ -10,7 +10,6 @@ Sono uno JR. web develoepr con tanta passione. Amo esplorare nuove tecnologie e 
 
 - 🚀 Progetti interessanti e creativi
 - 💻 Codice sorgente di alta qualità
-- 📝 Articoli e tutorial che potrebbero interessarti
 
 <!--## Progetti in evidenza
 
